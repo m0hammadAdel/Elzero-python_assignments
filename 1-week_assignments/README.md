@@ -14,4 +14,4 @@ is to print each variable in a new line with an explantion to it
 is to concatinate all the three variables in a sentence
 
 ## fifth Assignment
-is to print the type of each variable in a new line
+is to print the type of each variable in a new line.
