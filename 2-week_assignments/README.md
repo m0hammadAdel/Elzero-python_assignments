@@ -1,4 +1,4 @@
-# Week 2 Assignments
+## Week 2 Assignments
 in this week the main study plan was for more understanding  strings.\
 
 -Indexing And Slicing.
