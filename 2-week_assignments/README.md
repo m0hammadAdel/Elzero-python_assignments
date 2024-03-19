@@ -1,17 +1,20 @@
 # Week 2 Assignments
-in this week the main study plan was for more understanding  strings.
+in this week the main study plan was for more understanding  strings.\
+
 -Indexing And Slicing.
+
 -Important String Methods.
+
 -String Formatting.
 
 ### Important String Methods:
 -len(): returns the sum of characters of the string "or elements of a list".
 
--strep(): trim white spaces at the start and the end of a string (second argument could take a special string or any string to delete).
+-strip(): trim white spaces at the start and the end of a string (second argument could take a special string or any string to delete).
 
--rstrep(): does the exact same function as strep() but only at the start of the sting.
+-rstrip(): does the exact same function as strep() but only at the start of the sting.
 
--lstrep(): does the exact same function as strep() but only at the end of the string.
+-lstrip(): does the exact same function as strep() but only at the end of the string.
 
 -title(): replace every first character of a word or a character after a number with a capital letter.
 
