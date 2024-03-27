@@ -1,0 +1,10 @@
+print(bool(True))
+print(bool('a'))
+print(bool(50))
+print(bool([34, 12, 'da']))
+
+print('_' * 50)
+print(bool(False))
+print(bool(''))
+print(bool(0))
+print(bool([]))
