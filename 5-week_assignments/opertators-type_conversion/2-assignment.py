@@ -4,4 +4,4 @@ javascript = 70
 
 # Needed Output
 
-print(html > 50 or css > 50 or javascript > 50)
+print(html > 50 and css > 50 and javascript > 50)
