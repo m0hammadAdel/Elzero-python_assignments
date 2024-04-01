@@ -2,7 +2,7 @@
 
 num1 = int(input("Please Enter the First Number: "))
 num2 = int(input("Please Enter the First Number: "))
-operation = input("Enter The Operation: + Or - Or * Or / Or %").strip()
+operation = input("Enter The Operation: + Or - Or * Or / Or %: ").strip()
 
 # Needed Output
 
